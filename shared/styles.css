@@ -1,0 +1,19 @@
+label, .button {
+    display: block;
+    margin-top: 10px;
+}
+
+.message {
+    color: black;
+    background-color: #ffffdd;
+    padding: 5px 10px;
+    border: 1px solid #ffd700;
+}
+
+.errors {
+    color: black;
+    background-color: #ffffcc;
+    margin: 0px;
+    padding: 5px 22px;
+    border: 1px solid #cc0000;
+}
